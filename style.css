@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat' ;
+}
+
 .main-titulo {
     text-align: center;
 }
@@ -15,5 +19,6 @@
 .img-thumbnail {
     width: 200px;
     height: 200px;
+    border: 1px solid #dddddd;
     margin: auto;
 }
